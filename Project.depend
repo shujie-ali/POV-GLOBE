@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1431322307 source:e:\educational\spring 2015-16\dlc\project\main.cpp
+	<fstream>
+	<fstream>
+	<iostream>
+	<string>
+	<bitset>
+	<string>
+	"time.h"
+	<sstream>
+
